@@ -5,4 +5,4 @@ def sub(c,d):
     return c-d
 
 def mul(c,d):
-    return a*b
+    return a*b  #주석임
